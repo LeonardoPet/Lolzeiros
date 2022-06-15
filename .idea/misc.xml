@@ -3,16 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.22592592592592592" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/drawable-anydpi/ic_sair.xml" value="0.3435185185185185" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2935185185185185" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/drawable/background.xml" value="0.2574074074074074" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/drawable/ic_icons8_league_of_legends.xml" value="0.3489583333333333" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2935185185185185" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_autenticacao.xml" value="0.3328125" />
-        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_autenticacao_acitivity.xml" value="0.1" />
-        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.16" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_autenticacao_acitivity.xml" value="0.2617100371747212" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_cad.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_cadastrar_usuario.xml" value="0.33" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_cadastrar_usuario2.xml" value="0.3328125" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_main.xml" value="0.3328125" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_pesquisa_estatisticas.xml" value="0.3328125" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_recuperar_senha.xml" value="0.3328125" />
         <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_recuperar_senha2.xml" value="0.3328125" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/layout/activity_view_model.xml" value="0.2015625" />
+        <entry key="..\:/Users/User/Lolzeiros/app/src/main/res/menu/menu_main.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

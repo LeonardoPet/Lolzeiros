@@ -2,9 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.lolzeiros">
-    
-    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
-    
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -13,8 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lolzeiros"
         android:usesCleartextTraffic="true">
+
         <activity
-            android:name=".AutenticacaoAcitivity"
+            android:name=".AutenticacaoActivity"
             android:exported="true"
             tools:ignore="Instantiatable">
             <intent-filter>
@@ -32,8 +33,6 @@
         <activity
             android:name=".RecuperarSenhaActivity"
             android:exported="true" />
-
-
     </application>
 
 </manifest>

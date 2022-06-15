@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "362457346851",
+    "project_id": "lolzeiros-66028",
+    "storage_bucket": "lolzeiros-66028.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362457346851:android:18fcf7291dde543f649296",
+        "android_client_info": {
+          "package_name": "com.example.lolzeiros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362457346851-epf8d4ldvl2s4gstr2tbbr1d6l390k0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD71wQF6LdKiAb-kcJCYnucI98CknU5Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362457346851-epf8d4ldvl2s4gstr2tbbr1d6l390k0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
